@@ -1,0 +1,3 @@
+[submodule "fasic_hdlparse"]
+	path = fasic_hdlparse
+	url = https://github.com/Freedom-ASIC/fasic_hdlparse
